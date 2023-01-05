@@ -1,2 +1,2 @@
 # Turn-Up-the-Guitar
-A user-friendly PC version of the well-known mobile game "Piano Tiles" was the goal of our final project.
+A user-friendly PC version of the well-known mobile game "Piano Tiles" was the goal of our final project. This game is known as "Turn up the Guitar." This approach was chosen because it could be efficiently utilized to tie together the many game components that are needed, and it could be further expanded by our own intuition to make the game completely functioning. In our game, players must use the colored buttons in front of them to match musical notes that scroll on the screen at the appropriate moment. Consider the buttons to represent the player's guitar strings as they attempt to play the notes being created by the buttons.
